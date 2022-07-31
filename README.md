@@ -21,6 +21,7 @@ Images
 ![Images examples](public/input_images.png)
 
 Masks
+
 ![Masks examples](public/masks_images.png)
 
 Input Image and True Mask side-by-side
